@@ -1,27 +1,22 @@
 {
-  "name": "Fatih Yavuz",
-  "description": "Software Engineer @Spotify",
-  "image_url": "https://pbs.twimg.com/profile_images/1593630240961662979/hDHYl9MP_400x400.jpg",
+  "name": "Can Çitoğlu",
+  "description": "Software Engineer @Twilio",
+  "image_url": "https://pbs.twimg.com/profile_images/968946458937446400/gPLrzD91_400x400.jpg",
   "links": [
     {
       "title": "LinkedIn",
-      "url": "https://linkedin.com/in/fyvz",
+      "url": "https://www.linkedin.com/in/can-citoglu",
       "icon": "linkedin"
     },
     {
       "title": "GitHub",
-      "url": "https://github.com/fatih-yavuz",
+      "url": "https://github.com/cancit",
       "icon": "github"
     },
     {
       "title": "Twitter",
-      "url": "https://twitter.com/fthdev",
+      "url": "https://twitter.com/cancitoglu",
       "icon": "twitter"
-    },
-    {
-      "title": "Instagram",
-      "url": "https://instagram.com/pusuknane",
-      "icon": "instagram"
     }
   ]
 }
